@@ -21,7 +21,7 @@ Open up a web browser of your choice and naviage to the [Azure Portal](portal.az
 
 In the IoT Hub blade find IoT Devcies on the left hand side as shown below:
 
-<img src="images/2.jpg" width="100px">
+<img src="images/2.jpg" width="200px">
 
 From there click on "ADD" 
 
